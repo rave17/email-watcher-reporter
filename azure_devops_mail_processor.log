@@ -1,0 +1,374 @@
+[2025-08-24 18:12:48] Iniciando procesador de correos de Azure DevOps
+[2025-08-24 18:12:51] Conexi�n IMAP exitosa
+[2025-08-24 18:12:52] Encontrados 50 correos nuevos de Azure DevOps
+[2025-08-24 18:12:53] Procesando correo de Azure DevOps: Welcome to Azure DevOps
+[2025-08-24 18:12:53] Correo de Azure DevOps procesado pero sin acci�n espec�fica: Welcome to Azure DevOps
+[2025-08-24 18:12:54] Procesando correo de Azure DevOps: [Build failed] rave17.py-selenium -
+ rave17/py-selenium:azure-pipelines - Testing - 52d34c56
+[2025-08-24 18:12:55] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:12:56] Procesando correo de Azure DevOps: Import successful for selenium-python repository
+[2025-08-24 18:12:56] Correo de Azure DevOps procesado pero sin acci�n espec�fica: Import successful for selenium-python repository
+[2025-08-24 18:12:57] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-Maven-CI -
+ IntegrationTesting:master - IntegrationTesting - c38c677e
+[2025-08-24 18:12:58] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:00] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-Maven-CI -
+ IntegrationTesting:master - IntegrationTesting - c38c677e
+[2025-08-24 18:13:01] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:01] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-Maven-CI -
+ IntegrationTesting:master - IntegrationTesting - c38c677e
+[2025-08-24 18:13:03] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:03] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-Maven-CI -
+ IntegrationTesting:master - IntegrationTesting - c38c677e
+[2025-08-24 18:13:05] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:06] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-Maven-CI -
+ IntegrationTesting:master - IntegrationTesting - c38c677e
+[2025-08-24 18:13:07] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:07] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ IntegrationTesting:master - IntegrationTesting - c38c677e
+[2025-08-24 18:13:09] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:09] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ IntegrationTesting:master - IntegrationTesting - c38c677e
+[2025-08-24 18:13:10] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:11] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ IntegrationTesting:master - IntegrationTesting - c38c677e
+[2025-08-24 18:13:12] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:13] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ IntegrationTesting:master - IntegrationTesting - c38c677e
+[2025-08-24 18:13:14] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:15] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ https://gitlab.com/r_vargas/selenium-python.git: - IntegrationTesting -
+[2025-08-24 18:13:16] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:17] Procesando correo de Azure DevOps: Import successful for selenium-python repository
+[2025-08-24 18:13:17] Correo de Azure DevOps procesado pero sin acci�n espec�fica: Import successful for selenium-python repository
+[2025-08-24 18:13:18] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 17c1ca04
+[2025-08-24 18:13:19] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:19] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 17c1ca04
+[2025-08-24 18:13:21] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:21] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 17c1ca04
+[2025-08-24 18:13:23] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:23] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 17c1ca04
+[2025-08-24 18:13:25] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:25] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 17c1ca04
+[2025-08-24 18:13:26] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:27] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 17c1ca04
+[2025-08-24 18:13:28] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:29] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 17c1ca04
+[2025-08-24 18:13:30] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:31] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 17c1ca04
+[2025-08-24 18:13:32] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:33] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 17c1ca04
+[2025-08-24 18:13:34] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:34] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 17c1ca04
+[2025-08-24 18:13:35] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:36] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 17c1ca04
+[2025-08-24 18:13:37] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:38] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 17c1ca04
+[2025-08-24 18:13:39] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:40] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 17c1ca04
+[2025-08-24 18:13:41] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:42] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 17c1ca04
+[2025-08-24 18:13:43] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:44] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 17c1ca04
+[2025-08-24 18:13:45] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:45] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-Python package-CI -
+ https://gitlab.com/r_vargas/selenium-python.git: - IntegrationTesting -
+[2025-08-24 18:13:47] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:47] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-Python package-CI -
+ https://gitlab.com/r_vargas/selenium-python.git: - IntegrationTesting -
+[2025-08-24 18:13:48] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:49] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-Python package-CI -
+ https://gitlab.com/r_vargas/selenium-python.git: - IntegrationTesting -
+[2025-08-24 18:13:50] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:51] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-Python package-CI -
+ https://gitlab.com/r_vargas/selenium-python.git: - IntegrationTesting -
+[2025-08-24 18:13:52] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:13:53] Procesando correo de Azure DevOps: [Build succeeded] IntegrationTesting-Python package-CI -
+ https://gitlab.com/r_vargas/selenium-python.git: - IntegrationTesting -
+[2025-08-24 18:13:54] Task creado exitosamente: Ejecuci�n exitosa: [Build succeeded] IntegrationTesting-Python package-CI -
+ https://gitlab.com/r_vargas/selenium-python.git: - IntegrationTesting -
+[2025-08-24 18:13:55] Procesando correo de Azure DevOps: [Build succeeded] IntegrationTesting-Python package-CI -
+ https://gitlab.com/r_vargas/selenium-python.git: - IntegrationTesting -
+[2025-08-24 18:13:56] Task creado exitosamente: Ejecuci�n exitosa: [Build succeeded] IntegrationTesting-Python package-CI -
+ https://gitlab.com/r_vargas/selenium-python.git: - IntegrationTesting -
+[2025-08-24 18:13:57] Procesando correo de Azure DevOps: [Build succeeded] IntegrationTesting-Python package-CI -
+ https://gitlab.com/r_vargas/selenium-python.git: - IntegrationTesting -
+[2025-08-24 18:13:58] Task creado exitosamente: Ejecuci�n exitosa: [Build succeeded] IntegrationTesting-Python package-CI -
+ https://gitlab.com/r_vargas/selenium-python.git: - IntegrationTesting -
+[2025-08-24 18:13:59] Procesando correo de Azure DevOps: [Build succeeded] IntegrationTesting-Python package-CI -
+ https://gitlab.com/r_vargas/selenium-python.git: - IntegrationTesting -
+[2025-08-24 18:14:00] Task creado exitosamente: Ejecuci�n exitosa: [Build succeeded] IntegrationTesting-Python package-CI -
+ https://gitlab.com/r_vargas/selenium-python.git: - IntegrationTesting -
+[2025-08-24 18:14:01] Procesando correo de Azure DevOps: [Build succeeded] IntegrationTesting-Python package-CI -
+ https://gitlab.com/r_vargas/selenium-python.git: - IntegrationTesting -
+[2025-08-24 18:14:02] Task creado exitosamente: Ejecuci�n exitosa: [Build succeeded] IntegrationTesting-Python package-CI -
+ https://gitlab.com/r_vargas/selenium-python.git: - IntegrationTesting -
+[2025-08-24 18:14:03] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 17c1ca04
+[2025-08-24 18:14:04] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:14:04] Procesando correo de Azure DevOps: Import successful for selenium-python repository
+[2025-08-24 18:14:05] Correo de Azure DevOps procesado pero sin acci�n espec�fica: Import successful for selenium-python repository
+[2025-08-24 18:14:06] Procesando correo de Azure DevOps: [Build succeeded] ReposDeAzure-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 9ed9a825
+[2025-08-24 18:14:07] Task creado exitosamente: Ejecuci�n exitosa: [Build succeeded] ReposDeAzure-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 9ed9a825
+[2025-08-24 18:14:07] Procesando correo de Azure DevOps: [Build failed] ReposDeAzure-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 9ed9a825
+[2025-08-24 18:14:09] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:14:09] Procesando correo de Azure DevOps: [Build failed] ReposDeAzure-PythonSelenium -
+ selenium-python.git:master - IntegrationTesting - 9ed9a825
+[2025-08-24 18:14:10] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:14:11] Procesando correo de Azure DevOps: Azure DevOps personal access token added
+[2025-08-24 18:14:12] Correo de Azure DevOps procesado pero sin acci�n espec�fica: Azure DevOps personal access token added
+[2025-08-24 18:14:12] Procesando correo de Azure DevOps: [Build failed] IntegrationTesting-CI-PruebasDesdeDiferentesCarpetas -
+ https://gitlab.com/r_vargas/selenium-python.git: - IntegrationTesting -
+[2025-08-24 18:14:13] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:14:14] Procesando correo de Azure DevOps: [Build failed] rave17.ReportPortalDemo-Serenity -
+ rave17/ReportPortalDemo-Serenity:main - IntegrationTesting - acb58bdb
+[2025-08-24 18:14:15] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:14:17] Procesando correo de Azure DevOps: [Build succeeded] rave17.ReportPortalDemo-Serenity (6) -
+ rave17/ReportPortalDemo-Serenity:main - IntegrationTesting - 1a15a126
+[2025-08-24 18:14:18] Task creado exitosamente: Ejecuci�n exitosa: [Build succeeded] rave17.ReportPortalDemo-Serenity (6) -
+ rave17/ReportPortalDemo-Serenity:main - IntegrationTesting - 1a15a126
+[2025-08-24 18:14:19] Procesando correo de Azure DevOps: [Build failed] rave17.serenity-selenium-reporter - rave17/serenity-selenium-reporter:main - Seguimiento de ejecucionesv�a mails - e4cba526
+[2025-08-24 18:14:20] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:14:20] Procesando correo de Azure DevOps: [Build failed] rave17.serenity-selenium-reporter - rave17/serenity-selenium-reporter:main - Seguimiento de ejecucionesv�a mails - 5091a27f
+[2025-08-24 18:14:22] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:14:22] Procesando correo de Azure DevOps: [Build failed] rave17.serenity-selenium-reporter - rave17/serenity-selenium-reporter:main - Seguimiento de ejecucionesv�a mails - 15cc8907
+[2025-08-24 18:14:23] Error creando work item: 404 - {"$id":"1","innerException":null,"message":"VS402323: Work item type Bug does not exist in project 57422fac-d73b-49bb-b710-178d92293063 or you do not have permission to access it.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.Metadata.WorkItemTypeNotFoundException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemTypeNotFoundException","errorCode":0,"eventId":3200}
+[2025-08-24 18:15:27] Conexi�n IMAP exitosa
+[2025-08-24 18:56:05] 🚀 Iniciando procesador de correos para TU tablero de Azure DevOps
+[2025-08-24 18:56:05] 🎯 Columnas configuradas: ['Bugs creados', 'En revision', 'Terminado', 'Cerrado']
+[2025-08-24 18:56:07] ✅ Conexión IMAP exitosa
+[2025-08-24 18:56:08] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 18:57:10] ✅ Conexión IMAP exitosa
+[2025-08-24 18:57:11] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 18:58:14] ✅ Conexión IMAP exitosa
+[2025-08-24 18:58:15] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 18:59:18] ✅ Conexión IMAP exitosa
+[2025-08-24 18:59:18] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:00:22] ✅ Conexión IMAP exitosa
+[2025-08-24 19:00:22] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:01:25] ✅ Conexión IMAP exitosa
+[2025-08-24 19:01:26] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:02:30] ✅ Conexión IMAP exitosa
+[2025-08-24 19:02:30] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:03:33] ✅ Conexión IMAP exitosa
+[2025-08-24 19:03:33] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:04:37] ✅ Conexión IMAP exitosa
+[2025-08-24 19:04:38] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:05:40] ✅ Conexión IMAP exitosa
+[2025-08-24 19:05:41] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:06:44] ✅ Conexión IMAP exitosa
+[2025-08-24 19:06:44] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:07:47] ✅ Conexión IMAP exitosa
+[2025-08-24 19:07:48] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:08:47] 🚀 Iniciando procesador de correos para TU tablero de Azure DevOps
+[2025-08-24 19:08:47] 🎯 Columnas configuradas: ['Bugs creados', 'En revision', 'Terminado', 'Cerrado']
+[2025-08-24 19:08:50] ✅ Conexión IMAP exitosa
+[2025-08-24 19:08:51] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:09:54] ✅ Conexión IMAP exitosa
+[2025-08-24 19:09:55] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:10:59] ✅ Conexión IMAP exitosa
+[2025-08-24 19:10:59] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:12:02] ✅ Conexión IMAP exitosa
+[2025-08-24 19:12:02] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:13:06] ✅ Conexión IMAP exitosa
+[2025-08-24 19:13:07] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:15:26] 🚀 Iniciando procesador de correos para TU tablero de Azure DevOps
+[2025-08-24 19:15:26] 🎯 Columnas configuradas: ['Bugs creados', 'En revision', 'Ejecucion existosa']
+[2025-08-24 19:15:28] ✅ Conexión IMAP exitosa
+[2025-08-24 19:15:29] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:16:32] ✅ Conexión IMAP exitosa
+[2025-08-24 19:16:33] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:17:37] ✅ Conexión IMAP exitosa
+[2025-08-24 19:17:37] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:18:40] ✅ Conexión IMAP exitosa
+[2025-08-24 19:18:40] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:19:43] ✅ Conexión IMAP exitosa
+[2025-08-24 19:19:44] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:20:48] ✅ Conexión IMAP exitosa
+[2025-08-24 19:20:48] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:21:52] ✅ Conexión IMAP exitosa
+[2025-08-24 19:21:52] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:22:55] ✅ Conexión IMAP exitosa
+[2025-08-24 19:22:56] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:23:59] ✅ Conexión IMAP exitosa
+[2025-08-24 19:23:59] 📬 Encontrados 1 correos nuevos de Azure DevOps
+[2025-08-24 19:24:00] 📧 Procesando correo: [Build succeeded] rave17.serenity-selenium-reporter - rave17/serenity-selenium-reporter:main - Seguimiento de ejecucionesvía mails - eb956ac5
+[2025-08-24 19:24:01] Tipos de Work Items disponibles: ['Issue', 'Epic', 'Task', 'Test Case', 'Test Plan', 'Test Suite', 'Shared Steps', 'Shared Parameter', 'Code Review Request', 'Code Review Response', 'Feedback Request', 'Feedback Response']
+[2025-08-24 19:24:02] Estados disponibles para Task: ['To Do', 'Doing', 'Done']
+[2025-08-24 19:24:02] ⚠️ Estado 'New' no disponible. Usando 'New'
+[2025-08-24 19:24:03] ❌ Error creando work item: 400 - {"$id":"1","innerException":null,"message":"TF401347: Invalid tree name given for work item -1, field 'System.AreaPath'.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.WorkItemFieldInvalidTreeNameException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemFieldInvalidTreeNameException","errorCode":600171,"eventId":3200}
+[2025-08-24 19:24:03] ❌ No se pudo crear el Work Item
+[2025-08-24 19:25:07] ✅ Conexión IMAP exitosa
+[2025-08-24 19:25:07] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:26:11] ✅ Conexión IMAP exitosa
+[2025-08-24 19:26:11] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:27:15] ✅ Conexión IMAP exitosa
+[2025-08-24 19:27:15] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:28:19] ✅ Conexión IMAP exitosa
+[2025-08-24 19:28:20] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:29:23] ✅ Conexión IMAP exitosa
+[2025-08-24 19:29:24] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:30:28] ✅ Conexión IMAP exitosa
+[2025-08-24 19:30:28] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:31:32] ✅ Conexión IMAP exitosa
+[2025-08-24 19:31:32] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:32:36] ✅ Conexión IMAP exitosa
+[2025-08-24 19:32:36] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:33:40] ✅ Conexión IMAP exitosa
+[2025-08-24 19:33:41] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:34:44] ✅ Conexión IMAP exitosa
+[2025-08-24 19:34:44] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:35:47] ✅ Conexión IMAP exitosa
+[2025-08-24 19:35:47] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:36:56] 🚀 Iniciando procesador de correos para TU tablero de Azure DevOps
+[2025-08-24 19:36:56] 🎯 Columnas configuradas: ['Bugs creados', 'En revision', 'Ejecucion existosa']
+[2025-08-24 19:36:59] ✅ Conexión IMAP exitosa
+[2025-08-24 19:36:59] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:38:03] ✅ Conexión IMAP exitosa
+[2025-08-24 19:38:03] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:39:07] ✅ Conexión IMAP exitosa
+[2025-08-24 19:39:08] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:40:12] ✅ Conexión IMAP exitosa
+[2025-08-24 19:40:12] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:41:15] ✅ Conexión IMAP exitosa
+[2025-08-24 19:41:16] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:42:20] ✅ Conexión IMAP exitosa
+[2025-08-24 19:42:20] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:43:23] ✅ Conexión IMAP exitosa
+[2025-08-24 19:43:24] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:44:27] ✅ Conexión IMAP exitosa
+[2025-08-24 19:44:28] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:45:31] ✅ Conexión IMAP exitosa
+[2025-08-24 19:45:31] 📬 Encontrados 1 correos nuevos de Azure DevOps
+[2025-08-24 19:45:32] 📧 Procesando correo: [Build succeeded] rave17.serenity-selenium-reporter - rave17/serenity-selenium-reporter:main - Seguimiento de ejecucionesvía mails - eb956ac5
+[2025-08-24 19:45:34] Tipos de Work Items disponibles: ['Issue', 'Epic', 'Task', 'Test Case', 'Test Plan', 'Test Suite', 'Shared Steps', 'Shared Parameter', 'Code Review Request', 'Code Review Response', 'Feedback Request', 'Feedback Response']
+[2025-08-24 19:45:34] Estados disponibles para Task: ['To Do', 'Doing', 'Done']
+[2025-08-24 19:45:35] ❌ Error creando work item: 400 - {"$id":"1","innerException":null,"message":"TF401347: Invalid tree name given for work item -1, field 'System.AreaPath'.","typeName":"Microsoft.TeamFoundation.WorkItemTracking.Server.WorkItemFieldInvalidTreeNameException, Microsoft.TeamFoundation.WorkItemTracking.Server","typeKey":"WorkItemFieldInvalidTreeNameException","errorCode":600171,"eventId":3200}
+[2025-08-24 19:45:35] ❌ No se pudo crear el Work Item
+[2025-08-24 19:46:38] ✅ Conexión IMAP exitosa
+[2025-08-24 19:46:38] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:47:41] ✅ Conexión IMAP exitosa
+[2025-08-24 19:47:42] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 19:48:07] 🚀 Iniciando procesador de correos para TU tablero
+[2025-08-24 19:48:07] 🔍 Obteniendo información de tu configuración...
+[2025-08-24 19:48:07] 📋 Tipos de Work Items disponibles: ['Issue', 'Epic', 'Task', 'Test Case', 'Test Plan', 'Test Suite', 'Shared Steps', 'Shared Parameter', 'Code Review Request', 'Code Review Response', 'Feedback Request', 'Feedback Response']
+[2025-08-24 19:48:08] 📊 Tableros disponibles en el proyecto:
+[2025-08-24 19:48:08]    - Issues (ID: 0ac41a19-1ca1-4e01-aa10-9e188cce65a7)
+[2025-08-24 19:48:08]    - Epics (ID: 63a97663-0831-41b6-b624-3eb375055165)
+[2025-08-24 19:48:09] 🎯 Configuración actual del script:
+[2025-08-24 19:48:09]    - Mapeo columnas→estados: {'Bugs creados': 'To Do', 'En revision': 'Doing', 'Ejecucion existosa': 'Done'}
+[2025-08-24 19:48:09]    - Asignación correos→columnas: {'failed': 'Bugs creados', 'succeeded': 'Ejecucion existosa'}
+[2025-08-24 19:48:09] ❓ ¿El mapeo de columnas a estados es correcto? Si no, ajusta TABLERO_CONFIG
+[2025-08-24 19:59:14] 🚀 Iniciando procesador de correos para TU tablero
+[2025-08-24 19:59:14] 🔍 Obteniendo información de tu configuración...
+[2025-08-24 19:59:15] 📋 Tipos de Work Items disponibles: ['Issue', 'Epic', 'Task', 'Test Case', 'Test Plan', 'Test Suite', 'Shared Steps', 'Shared Parameter', 'Code Review Request', 'Code Review Response', 'Feedback Request', 'Feedback Response']
+[2025-08-24 19:59:15] 🎯 Configuración actual del script:
+[2025-08-24 19:59:15]    - Mapeo columnas→estados: {'Bugs creados': 'To Do', 'En revision': 'Doing', 'Ejecucion existosa': 'Done'}
+[2025-08-24 19:59:15]    - Asignación correos→columnas: {'failed': 'Bugs creados', 'succeeded': 'Ejecucion existosa'}
+[2025-08-24 19:59:15] ✅ Configuración verificada. Iniciando monitoreo de correos...
+[2025-08-24 19:59:17] ✅ Conexión IMAP exitosa
+[2025-08-24 19:59:18] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:00:21] ✅ Conexión IMAP exitosa
+[2025-08-24 20:00:21] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:01:25] ✅ Conexión IMAP exitosa
+[2025-08-24 20:01:25] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:02:29] ✅ Conexión IMAP exitosa
+[2025-08-24 20:02:29] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:03:33] ✅ Conexión IMAP exitosa
+[2025-08-24 20:03:34] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:04:37] ✅ Conexión IMAP exitosa
+[2025-08-24 20:04:38] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:05:42] ✅ Conexión IMAP exitosa
+[2025-08-24 20:05:43] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:06:46] ✅ Conexión IMAP exitosa
+[2025-08-24 20:06:46] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:07:49] ✅ Conexión IMAP exitosa
+[2025-08-24 20:07:50] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:08:53] ✅ Conexión IMAP exitosa
+[2025-08-24 20:08:54] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:09:58] ✅ Conexión IMAP exitosa
+[2025-08-24 20:09:58] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:11:02] ✅ Conexión IMAP exitosa
+[2025-08-24 20:11:02] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:12:05] ✅ Conexión IMAP exitosa
+[2025-08-24 20:12:06] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:13:09] ✅ Conexión IMAP exitosa
+[2025-08-24 20:13:09] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:14:12] ✅ Conexión IMAP exitosa
+[2025-08-24 20:14:13] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:15:16] ✅ Conexión IMAP exitosa
+[2025-08-24 20:15:16] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:16:20] ✅ Conexión IMAP exitosa
+[2025-08-24 20:16:20] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:17:24] ✅ Conexión IMAP exitosa
+[2025-08-24 20:17:24] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:18:28] ✅ Conexión IMAP exitosa
+[2025-08-24 20:18:29] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:19:32] ✅ Conexión IMAP exitosa
+[2025-08-24 20:19:33] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:20:36] ✅ Conexión IMAP exitosa
+[2025-08-24 20:20:36] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:21:40] ✅ Conexión IMAP exitosa
+[2025-08-24 20:21:41] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:22:44] ✅ Conexión IMAP exitosa
+[2025-08-24 20:22:45] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:23:49] ✅ Conexión IMAP exitosa
+[2025-08-24 20:23:49] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:24:53] ✅ Conexión IMAP exitosa
+[2025-08-24 20:24:54] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:25:57] ✅ Conexión IMAP exitosa
+[2025-08-24 20:25:58] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:27:01] ✅ Conexión IMAP exitosa
+[2025-08-24 20:27:01] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:28:05] ✅ Conexión IMAP exitosa
+[2025-08-24 20:28:05] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:29:08] ✅ Conexión IMAP exitosa
+[2025-08-24 20:29:09] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:30:13] ✅ Conexión IMAP exitosa
+[2025-08-24 20:30:13] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:31:16] ✅ Conexión IMAP exitosa
+[2025-08-24 20:31:17] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:32:20] ✅ Conexión IMAP exitosa
+[2025-08-24 20:32:21] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:33:24] ✅ Conexión IMAP exitosa
+[2025-08-24 20:33:24] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:34:28] ✅ Conexión IMAP exitosa
+[2025-08-24 20:34:28] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:35:32] ✅ Conexión IMAP exitosa
+[2025-08-24 20:35:33] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:36:36] ✅ Conexión IMAP exitosa
+[2025-08-24 20:36:37] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:37:41] ✅ Conexión IMAP exitosa
+[2025-08-24 20:37:41] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:38:44] ✅ Conexión IMAP exitosa
+[2025-08-24 20:38:44] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-24 20:39:47] ✅ Conexión IMAP exitosa
+[2025-08-24 20:39:48] 📭 No hay correos nuevos de Azure DevOps
+[2025-08-26 08:07:24] 🚀 Iniciando procesador de correos para TU tablero
+[2025-08-26 08:07:24] 🔍 Obteniendo información de tu configuración...
+[2025-08-26 08:12:40] 🚀 Iniciando procesador de correos para TU tablero
+[2025-08-26 08:12:40] 🔍 Obteniendo información de tu configuración...
+[2025-08-26 08:12:41] 📋 Tipos de Work Items disponibles: ['Issue', 'Epic', 'Task', 'Test Case', 'Test Plan', 'Test Suite', 'Shared Steps', 'Shared Parameter', 'Code Review Request', 'Code Review Response', 'Feedback Request', 'Feedback Response']
+[2025-08-26 08:12:41] 🎯 Configuración actual del script:
+[2025-08-26 08:12:41]    - Mapeo columnas→estados: {'Bugs creados': 'To Do', 'En revision': 'Doing', 'Ejecucion existosa': 'Done'}
+[2025-08-26 08:12:41]    - Asignación correos→columnas: {'failed': 'Bugs creados', 'succeeded': 'Ejecucion existosa'}
+[2025-08-26 08:12:41] ✅ Configuración verificada. Iniciando monitoreo de correos...
+[2025-08-26 08:12:43] ✅ Conexión IMAP exitosa
+[2025-08-26 08:12:44] 📭 No hay correos nuevos de Azure DevOps
